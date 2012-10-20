@@ -1,0 +1,17 @@
+C:\Users\William\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Icon Notifier\obj\x86\Debug\Gmail Icon Notifier.csprojResolveAssemblyReference.cache
+C:\Users\William\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Icon Notifier\obj\x86\Debug\Interop.Shell32.dll
+C:\Users\William\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Icon Notifier\obj\x86\Debug\Gmail Icon Notifier.csproj.ResolveComReference.cache
+C:\Users\William\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Icon Notifier\obj\x86\Debug\Gmail_Icon_Notifier.AboutWindow.resources
+C:\Users\William\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Icon Notifier\obj\x86\Debug\Gmail_Icon_Notifier.NewAccountInput.resources
+C:\Users\William\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Icon Notifier\obj\x86\Debug\Gmail_Icon_Notifier.Notifier.resources
+C:\Users\William\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Icon Notifier\obj\x86\Debug\Gmail_Icon_Notifier.PopupBox.resources
+C:\Users\William\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Icon Notifier\obj\x86\Debug\Gmail_Icon_Notifier.Properties.Resources.resources
+C:\Users\William\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Icon Notifier\obj\x86\Debug\Gmail_Icon_Notifier.Settings.resources
+C:\Users\William\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Icon Notifier\obj\x86\Debug\Gmail Icon Notifier.csproj.GenerateResource.Cache
+C:\Users\William\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Icon Notifier\bin\x86\Debug\Gmail Icon Notifier.exe
+C:\Users\William\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Icon Notifier\bin\x86\Debug\Gmail Icon Notifier.pdb
+C:\Users\William\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Icon Notifier\bin\x86\Debug\GINCommonControls.dll
+C:\Users\William\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Icon Notifier\bin\x86\Debug\GINCommonControls.pdb
+C:\Users\William\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Icon Notifier\bin\x86\Debug\Interop.Shell32.dll
+C:\Users\William\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Icon Notifier\obj\x86\Debug\Gmail Icon Notifier.exe
+C:\Users\William\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Icon Notifier\obj\x86\Debug\Gmail Icon Notifier.pdb

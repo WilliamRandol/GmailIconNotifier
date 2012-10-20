@@ -1,0 +1,4 @@
+C:\Users\William\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Registration Helper\bin\x86\Debug\Gmail Registration Helper.exe
+C:\Users\William\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Registration Helper\bin\x86\Debug\Gmail Registration Helper.pdb
+C:\Users\William\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Registration Helper\obj\x86\Debug\Gmail Registration Helper.exe
+C:\Users\William\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Registration Helper\obj\x86\Debug\Gmail Registration Helper.pdb

@@ -1,4 +1,5 @@
-﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
   <PropertyGroup>
     <PublishUrlHistory>C:\Users\William\Desktop\GIN\|C:\Documents and Settings\William Randol\Desktop\Gmail Icon Notifier\|http://localhost/GINmailto/</PublishUrlHistory>
     <InstallUrlHistory>
@@ -12,12 +13,14 @@
     <FallbackCulture>en-US</FallbackCulture>
     <VerifyUploadedFiles>true</VerifyUploadedFiles>
     <EnableSecurityDebugging>false</EnableSecurityDebugging>
+    <ErrorReportUrlHistory />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <StartArguments>sendto</StartArguments>
     <RemoteDebugEnabled>false</RemoteDebugEnabled>
     <StartAction>Program</StartAction>
     <StartProgram>c:\windows\explorer.exe</StartProgram>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <StartArguments>
@@ -25,5 +28,10 @@
     <StartAction>Project</StartAction>
     <StartProgram>
     </StartProgram>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <StartProgram>c:\windows\explorer.exe</StartProgram>
+    <StartArguments>sendto</StartArguments>
+    <StartAction>Program</StartAction>
   </PropertyGroup>
 </Project>

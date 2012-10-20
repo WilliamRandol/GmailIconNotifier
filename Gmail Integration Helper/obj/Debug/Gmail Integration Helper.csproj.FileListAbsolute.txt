@@ -23,6 +23,4 @@ D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gm
 D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\obj\Debug\ResolveAssemblyReference.cache
 D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\obj\Debug\Gmail_Integration_Helper.Properties.Resources.resources
 D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\obj\Debug\Gmail Integration Helper.csproj.GenerateResource.Cache
-c:\program files\Gmail icon notifier\Gmail Integration Helper.exe
-c:\program files\Gmail icon notifier\Gmail Integration Helper.pdb
 D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\obj\Debug\QuickSend.QuickSend.resources
