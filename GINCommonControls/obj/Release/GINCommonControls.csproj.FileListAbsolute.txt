@@ -1,0 +1,6 @@
+C:\Users\William\Desktop\Gmail Icon Notifier Build Folder\GINCommonControls.dll
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\GINCommonControls\obj\Release\ResolveAssemblyReference.cache
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\GINCommonControls\obj\Release\GINCommonControls.dll
+C:\Documents and Settings\Wil.Randol\My Documents\Visual Studio 2008\Projects\Gmail Icon Notifier Project\GINCommonControls\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Wil.Randol\My Documents\Visual Studio 2008\Projects\Gmail Icon Notifier Project\GINCommonControls\obj\Release\GINCommonControls.dll
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\[Build] Gmail Icon Notifier\GINCommonControls.dll

@@ -1,0 +1,28 @@
+C:\Documents and Settings\Wil.Randol\My Documents\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Wil.Randol\My Documents\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\obj\Debug\Gmail_Integration_Helper.Properties.Resources.resources
+C:\Documents and Settings\Wil.Randol\My Documents\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\obj\Debug\Gmail Integration Helper.csproj.GenerateResource.Cache
+C:\Documents and Settings\Wil.Randol\My Documents\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\bin\Debug\Gmail Integration Helper.exe
+C:\Documents and Settings\Wil.Randol\My Documents\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\bin\Debug\Gmail Integration Helper.pdb
+C:\Documents and Settings\Wil.Randol\My Documents\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\bin\Debug\Google.GData.Client.dll
+C:\Documents and Settings\Wil.Randol\My Documents\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\bin\Debug\Google.GData.Contacts.dll
+C:\Documents and Settings\Wil.Randol\My Documents\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\bin\Debug\Google.GData.Extensions.dll
+C:\Documents and Settings\Wil.Randol\My Documents\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\obj\Debug\Gmail Integration Helper.exe
+C:\Documents and Settings\Wil.Randol\My Documents\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\obj\Debug\Gmail Integration Helper.pdb
+C:\Documents and Settings\Wil.Randol\My Documents\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\bin\Debug\GINCommonControls.dll
+C:\Documents and Settings\Wil.Randol\My Documents\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\bin\Debug\GINCommonControls.pdb
+C:\Documents and Settings\Wil.Randol\My Documents\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\obj\Debug\Gmail_Intigration_Helper.QuickSend.resources
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\obj\Debug\Gmail Integration Helper.exe
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\obj\Debug\Gmail Integration Helper.pdb
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\bin\Debug\Gmail Integration Helper.exe
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\bin\Debug\Gmail Integration Helper.pdb
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\bin\Debug\GINCommonControls.dll
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\bin\Debug\Google.GData.Client.dll
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\bin\Debug\Google.GData.Contacts.dll
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\bin\Debug\Google.GData.Extensions.dll
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\bin\Debug\GINCommonControls.pdb
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\obj\Debug\Gmail_Integration_Helper.Properties.Resources.resources
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\obj\Debug\Gmail Integration Helper.csproj.GenerateResource.Cache
+c:\program files\Gmail icon notifier\Gmail Integration Helper.exe
+c:\program files\Gmail icon notifier\Gmail Integration Helper.pdb
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\obj\Debug\QuickSend.QuickSend.resources

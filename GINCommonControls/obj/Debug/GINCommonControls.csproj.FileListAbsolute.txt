@@ -1,0 +1,14 @@
+C:\Documents and Settings\Wil.Randol\My Documents\Visual Studio 2008\Projects\Gmail Icon Notifier Project\GINCommonControls\bin\Debug\GINCommonControls.dll
+C:\Documents and Settings\Wil.Randol\My Documents\Visual Studio 2008\Projects\Gmail Icon Notifier Project\GINCommonControls\bin\Debug\GINCommonControls.pdb
+C:\Documents and Settings\Wil.Randol\My Documents\Visual Studio 2008\Projects\Gmail Icon Notifier Project\GINCommonControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Wil.Randol\My Documents\Visual Studio 2008\Projects\Gmail Icon Notifier Project\GINCommonControls\obj\Debug\GINCommonControls.dll
+C:\Documents and Settings\Wil.Randol\My Documents\Visual Studio 2008\Projects\Gmail Icon Notifier Project\GINCommonControls\obj\Debug\GINCommonControls.pdb
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\GINCommonControls\bin\Debug\GINCommonControls.dll
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\GINCommonControls\bin\Debug\GINCommonControls.pdb
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\GINCommonControls\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\GINCommonControls\obj\Debug\GINCommonControls.dll
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\GINCommonControls\obj\Debug\GINCommonControls.pdb
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\GINCommonControls\bin\Debug\Google.GData.AccessControl.dll
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\GINCommonControls\bin\Debug\Google.GData.Client.dll
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\GINCommonControls\bin\Debug\Google.GData.Contacts.dll
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\GINCommonControls\bin\Debug\Google.GData.Extensions.dll

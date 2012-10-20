@@ -1,0 +1,10 @@
+C:\Documents and Settings\Wil.Randol\My Documents\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Registration Helper\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Wil.Randol\My Documents\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Registration Helper\bin\Debug\Gmail Registration Helper.exe
+C:\Documents and Settings\Wil.Randol\My Documents\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Registration Helper\bin\Debug\Gmail Registration Helper.pdb
+C:\Documents and Settings\Wil.Randol\My Documents\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Registration Helper\obj\Debug\Gmail Registration Helper.exe
+C:\Documents and Settings\Wil.Randol\My Documents\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Registration Helper\obj\Debug\Gmail Registration Helper.pdb
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Registration Helper\bin\Debug\Gmail Registration Helper.exe
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Registration Helper\bin\Debug\Gmail Registration Helper.pdb
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Registration Helper\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Registration Helper\obj\Debug\Gmail Registration Helper.exe
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Registration Helper\obj\Debug\Gmail Registration Helper.pdb

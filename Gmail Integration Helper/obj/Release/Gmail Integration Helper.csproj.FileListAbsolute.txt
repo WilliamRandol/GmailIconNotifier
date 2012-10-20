@@ -1,0 +1,12 @@
+C:\Users\William\Desktop\Gmail Icon Notifier Build Folder\Gmail Integration Helper.exe
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\obj\Release\ResolveAssemblyReference.cache
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\obj\Release\Gmail_Integration_Helper.Properties.Resources.resources
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\obj\Release\Gmail Integration Helper.csproj.GenerateResource.Cache
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\obj\Release\Gmail Integration Helper.exe
+C:\Documents and Settings\Wil.Randol\My Documents\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Wil.Randol\My Documents\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\obj\Release\Gmail_Integration_Helper.Properties.Resources.resources
+C:\Documents and Settings\Wil.Randol\My Documents\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\obj\Release\Gmail Integration Helper.csproj.GenerateResource.Cache
+C:\Documents and Settings\Wil.Randol\My Documents\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\obj\Release\Gmail Integration Helper.exe
+C:\Documents and Settings\Wil.Randol\My Documents\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\obj\Release\Gmail_Intigration_Helper.QuickSend.resources
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\Gmail Integration Helper\obj\Release\QuickSend.QuickSend.resources
+D:\Documents\Projects\Visual Studio 2008\Projects\Gmail Icon Notifier Project\[Build] Gmail Icon Notifier\Gmail Integration Helper.exe
